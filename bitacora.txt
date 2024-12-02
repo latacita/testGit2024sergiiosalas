@@ -8,3 +8,10 @@
 ====== ============================ ================================
  01	clone
  02	editar + add
+ 08	push origin SegundaRama
+ 09	checkout master
+ 17	checkout PrimeraRama
+ 18	merge SegundaRama		Da conflictos, se reordena
+	add + commit
+ 19	checkout master
+ 20	stash apply
