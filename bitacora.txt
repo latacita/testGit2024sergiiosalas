@@ -9,3 +9,4 @@
  01	clone
  02	editar + add
  04	branch PrimeraRama + checkout PrimeraRama
+ 11	stash + checkout PrimeraRama
