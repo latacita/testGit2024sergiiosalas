@@ -9,4 +9,9 @@
  01	clone
  02	editar + add
  04	branch PrimeraRama + checkout PrimeraRama
+ 06	branch SegundaRama + checkout SegundaRama
  11	stash + checkout PrimeraRama
+ 13	Checkout SegundaRama
+ 14	La fusión sería de forma recursiva porque el último commit de PrimeraRama no está dentro de SegundaRama
+ 15	La fusión sería por fast-forward porque el último commit en main está dentro de PrimeraRama
+
