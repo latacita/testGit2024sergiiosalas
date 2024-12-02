@@ -1,0 +1,5 @@
+ 22	push origin master   Da conflictos en el nombre del alumno. Se resuelven
+	add . + commit
+	push origin master
+ 23	checkout SegundaRama
+ 24	crear archivo pasosExtra
